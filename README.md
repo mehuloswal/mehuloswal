@@ -1,4 +1,5 @@
 <h1 align="center">Namaste 🙏🏽, Mehul here</h1>
+![enter image description here](https://github.com/mehuloswal/mehuloswal/blob/main/IMG_9253.jpg?raw=true)
 <h3 align="center">A simple being, with a different vision.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehuloswal&label=Profile%20views&color=0e75b6&style=flat" alt="mehuloswal" /> </p>

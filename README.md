@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **mehuloswal21@gmail.com**
 
+![](https://raw.githubusercontent.com/mehuloswal/mehuloswal/25052330a616adc69d9c7ad0e3ed393200a5f9f5/github-user-contribution.svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mehul-oswal-463b661ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehul-oswal-463b661ba" height="30" width="40" /></a>

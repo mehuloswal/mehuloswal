@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **any Blockchain/DistributedSystems projects**
 
-- 💬 Ask me about **react, nodejs or my health too😉**
+- 💬 Ask me about **react, nodejs or any blockchain technology**
 
 - 📫 How to reach me **mehuloswal21@gmail.com**
 

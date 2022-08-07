@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehuloswal&label=Profile%20views&color=0e75b6&style=flat" alt="mehuloswal" /> </p>
 
-- 🌱 I’m currently learning **iOS Development, Solana-Rustlang, Rust, CoreBitcoin- NFTs**
+- 🌱 I’m currently learning **iOS Development, Solana-Rustlang, Rust, CoreBitcoin.**
 
 - 👯 I’m looking to collaborate on **any Blockchain/DistributedSystems projects**
 

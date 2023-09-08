@@ -1,0 +1,29 @@
+__  __  __
+\ \ \ \ \/
+ \ \/\ \
+  \/  \/
+
+The humans.txt file explains the team, technology,
+and graphic assets behind this site humanstxt.org.
+
+_______________________________________________________________________________
+
+Developer 
+
+Mehul Oswal
+
+
+twitter.com/mehuuloswl
+github.com/mehuloswal
+
+_______________________________________________________________________________
+
+TECHNOLOGY 
+
+React
+Next.js
+Three.js
+Framer Motion
+
+_______________________________________________________________________________
+
